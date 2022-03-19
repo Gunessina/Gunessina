@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gunessina
-- 👀 I’m interested in programming languages, software development and data science
-- 🌱 I’m currently learning Python and the more i learn, the more i love.
-- 💞️ I’m looking to collaborate on entry level jobs
+- 👀 I’m interested in programming languages, I enjoy experimenting with them
+- 🌱 For now Python and C# 😍
+- 💞️ in internship
 - 📫 How to reach me ...
 
 <!---
