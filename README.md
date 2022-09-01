@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Gunessina
-- 👀 I’m interested in programming languages, I enjoy experimenting with them
-- 🌱 For now Python and C# 😍
-- 💞️ in internship
+- 👋 Hi, I’m @Güneş
+- 👀 I want to use GitHub more and more 
+- Python, C#, HTML, CSS
+- 
 - 📫 How to reach me ...
 
 <!---
