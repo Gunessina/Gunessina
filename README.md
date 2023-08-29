@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Güneş
+- 👋 Hi, I’m @Gunessina
 - 👀 I want to use GitHub more and more 
-- Python, C#, HTML, CSS
+- Python, C#, HTML, CSS, Kotlin
 - 
 - 📫 How to reach me ...
 
